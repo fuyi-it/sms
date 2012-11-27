@@ -1,0 +1,10 @@
+
+
+
+
+<index-page>
+<collection: replace>
+<table-plus fields="this,phone,messages">
+</table-plus>
+</collection>
+</index-page>
